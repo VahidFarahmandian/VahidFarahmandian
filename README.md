@@ -1,6 +1,7 @@
 # Hey friends!
 
 - 🙎‍♂️ I’m Vahid Farahmandian
+- 🤖 #WeAreDotnet Creator: https://www.wearedotnet.io/VahidFarahmandian
 - 📗 You can find my blog posts @ https://jinget.medium.com
 - 📣 Follow me on Instagram @ https://www.instagram.com/vahidfarahmandian
 - 💻 You can follow me on twitter using https://twitter.com/_jinget
