@@ -2,7 +2,7 @@
 
 - 🙎‍♂️ I’m Vahid Farahmandian
 - 🤖 #WeAreDotnet Creator: https://www.wearedotnet.io/VahidFarahmandian
-- 📗 You can find my blog posts @ https://jinget.medium.com
+- 📗 You can find my blog posts @ Medium(https://jinget.medium.com) & C# Corner(https://www.c-sharpcorner.com/members/vahid-farahmandian)
 - 📣 Follow me on Instagram @ https://www.instagram.com/vahidfarahmandian
 - 💻 You can follow me on twitter using https://twitter.com/_jinget
 - 👨‍💻 You can view my LinkedIn @ https://www.linkedin.com/in/vfarahmandian/
