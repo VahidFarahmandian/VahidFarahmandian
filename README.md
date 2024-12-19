@@ -1,16 +1,30 @@
-# Hey friends!
+## Vahid Farahmandian ✨
 
-- 🙎‍♂️ I’m Vahid Farahmandian
-- 🏆 C# Corner MVP (https://www.c-sharpcorner.com/members/vahid-farahmandian)
-- 🎆 .NET Foundation member (Educational Committee)
-- 🤖 #WeAreDotnet Creator member: https://www.wearedotnet.io/VahidFarahmandian
-- 📣 Follow me on Instagram @ https://www.instagram.com/vahidfarahmandian
-- 💻 Follow me on X (twitter) using https://twitter.com/_jinget
-- 👨‍💻 Follow me on LinkedIn @ https://www.linkedin.com/in/vfarahmandian/
-- 📺 Follow me on YouTube @ https://www.youtube.com/@jinget
-- 📗 You can read my blog posts @ Medium (https://jinget.medium.com)
-- ⚡ StackOverflow account: https://stackoverflow.com/users/1666800/vahid-farahmandian
-- 📧 My E-Mail address: farahmandian2011@gmail.com
-- 🔉 Occasional speaker in .NET related shows and conferences
+**Software Engineer & .NET Enthusiast**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vahidfarahmandian&count_private=true)
+I'm a passionate software engineer driven by the power of .NET. I love building innovative solutions and actively contribute to the developer community by sharing my knowledge and experiences.
+
+**Here's what I'm passionate about:**
+
+* **Crafting elegant and efficient code**
+* **Exploring the latest advancements in .NET**
+* **Empowering developers through knowledge sharing**
+
+**My Journey:**
+
+* **C# Corner MVP** - Recognized for my contributions to the C# community 
+* **.NET Foundation Member** - Actively involved in shaping the future of .NET
+* **#WeAreDotnet Creator** - Part of a vibrant community of .NET enthusiasts
+
+**Connect with me:**
+
+* **LinkedIn:** [Vahid Farahmandian](https://ir.linkedin.com/in/vfarahmandian)
+* **Twitter:** [@jinget](https://twitter.com/_jinget)
+* **Medium Blog:** [jinget.medium.com](https://jinget.medium.com)
+* **StackOverflow:** [Vahid Farahmandian](https://stackoverflow.com/users/6770600/vahid)
+* **Instagram:** [Vahid Farahmandian](https://www.instagram.com/vahidfarahmandian)
+* **YouTube:** [Vahid Farahmandian](https://www.youtube.com/@jinget)
+
+**Let's connect!**
+
+**Email:** farahmandian2011@gmail.com
