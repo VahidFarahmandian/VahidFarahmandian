@@ -21,7 +21,7 @@ I'm a passionate software engineer driven by the power of .NET. I love crafting 
 
 **Connect with me:**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://ir.linkedin.com/in/vfarahmandian)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://ir.linkedin.com/in/vahidfarahmandian)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/_jinget)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://jinget.medium.com)
   [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6770600/vahid)
