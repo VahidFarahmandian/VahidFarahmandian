@@ -17,7 +17,7 @@ I'm a passionate software engineer driven by the power of .NET. I love crafting 
 
 *   **C# Corner MVP (Top Contributor)** - Recognized for my contributions to the C# community.
 *   **.NET Foundation Member** - Actively involved in shaping the future of .NET. ️
-*   **#WeAreDotnet Creator** - Building a vibrant community of .NET enthusiasts.
+*   **WeAreDotnet Creator Member** - Building a vibrant community of .NET enthusiasts.
 
 **Connect with me:**
 
