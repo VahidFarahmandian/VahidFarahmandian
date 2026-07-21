@@ -1,14 +1,6 @@
-# 🚀 Vahid Farahmandian
-
 ### Software Engineer | .NET Architect | Cloud Enthusiast
 
----
-
-## 👨‍💻 About Me
-
 I'm a passionate **Software Engineer** with a deep love for the **.NET ecosystem**. I believe in writing clean, maintainable, and scalable code that solves real-world problems. My mission is to **build innovative solutions** while empowering the developer community through knowledge sharing and open-source contributions.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -35,16 +27,12 @@ I'm a passionate **Software Engineer** with a deep love for the **.NET ecosystem
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
 ## 🏆 Achievements
 
 - **🏅 C# Corner MVP** - Recognized as a Top Contributor in the C# community
 - **🌐 .NET Foundation Member** - Actively shaping the future of .NET
 - **🤝 WeAreDotnet Creator Member** - Building a vibrant community of .NET enthusiasts
 - **📝 Technical Writer** - Sharing knowledge through articles and tutorials
-
----
 
 ## 📫 Let's Connect
 
@@ -57,13 +45,9 @@ I'm a passionate **Software Engineer** with a deep love for the **.NET ecosystem
 
 **Email:** farahmandian2011 [at] gmail [dot] com
 
----
-
 ## 💬 Quote
 
 > "Code is poetry. Let's write beautiful verses together."
-
----
 
 ### ⭐ From [Vahid Farahmandian](https://github.com/jinget)
 
