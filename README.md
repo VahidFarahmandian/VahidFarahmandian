@@ -18,6 +18,7 @@ Passionate about clean code, cloud architecture, and empowering developers throu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Jinget](https://img.shields.io/badge/Jinget-004880?style=for-the-badge&logo=nuget&logoColor=white)
 
 ## Featured Work
 
